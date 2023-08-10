@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(47, 186, 140);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.players{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    text-align: center;
+    font-weight: 900;
+}
+
+img{
+    height: 150px;
+}
+
+
+footer{
+    margin-top:2em;
+    text-align: center;
+}
